@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="array">
+        <item>http://dienhoa24.com.vn/files/hoa-sinh-nhat/hoa-sinh-nhat.jpg</item>
+        <item>http://saigonhoa.com/wp-content/uploads/2015/04/cay-bong-nho-do-trong-nen-300x400.jpg</item>
+        <item>http://saigonflowers.biz/wp-content/uploads/2016/01/nhung-bo-hoa-hong-dep-nhat-the-gioi-031-13.jpg</item>
+
+    </string-array>
+</resources>
